@@ -58,3 +58,8 @@ sequelize db:seed:undo --seed 20240611043703-category-seeder
 ```
 
 Sequelize Associations
+
+Deploy
+```
+docker-compose up
+```
